@@ -1,0 +1,11 @@
+const a = require('./a.js').a
+const obj = require('./a.js')
+obj.test()
+obj.test()
+obj.test()
+obj.test()
+obj.test()
+obj.test()
+obj.test()
+obj.test()
+console.log('----------', a)
